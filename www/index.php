@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=grandtraverse&client_id=e0c6b0e16076a8ea65b864e30ee786e9" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=waterview-vip&client_id=e0c6b0e16076a8ea65b864e30ee786e9" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
